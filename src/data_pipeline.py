@@ -28,7 +28,7 @@ DEFAULT_DATA_PATH = Path("data/unemployment_data.csv")
 PUBLIC_DATA_PATH = Path("data/unemployment_official_2015_2024.csv")
 
 SOURCE_URLS = {
-    "salary": "https://rosstat.gov.ru/storage/mediabank/tab1-zpl_02-2026.xlsx",
+    "salary": "https://rosstat.gov.ru/storage/mediabank/tab1-zpl-02-2026.xlsx",
     "inflation": "https://www.rosstat.gov.ru/storage/mediabank/ipc_mes_03-2026.xlsx",
     "unemployment": "https://rosstat.gov.ru/storage/mediabank/Trud_3_15-s.xlsx",
     "real_income": "https://rosstat.gov.ru/storage/mediabank/urov_12kv_1kv-2026.xlsx",

@@ -17,7 +17,7 @@ Streamlit-приложение для практической части ВКР
 ## Источники
 
 - Росстат, заработная плата:
-  `https://rosstat.gov.ru/storage/mediabank/tab1-zpl_02-2026.xlsx`
+  `https://rosstat.gov.ru/storage/mediabank/tab1-zpl-02-2026.xlsx`
 - Росстат, безработица:
   `https://rosstat.gov.ru/storage/mediabank/Trud_3_15-s.xlsx`
 - Росстат, инфляция:
